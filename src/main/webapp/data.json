@@ -1,0 +1,26 @@
+[
+   {
+    "name": "系统管理",
+	"id":1,
+	"subMenu":[
+	   {"id":2,"label":"员工管理","url":"http://www.baidu.com"},
+	   {"id":3,"label":"角色管理","url":"http://www.baidu.com"}
+	]
+   },
+   {
+    "name": "装备管理",
+	"id":5,
+	"subMenu":[
+	   {"id":6,"label":"部门管理","url":"http://www.baidu.com"},
+	   {"id":7,"label":"老魏管理","url":"http://www.baidu.com"}
+	]
+   },
+   {
+    "name": "任务管理",
+	"id":8,
+	"subMenu":[
+	   {"id":9,"label":"老袁管理","url":"http://www.baidu.com"},
+	   {"id":10,"label":"老苗管理","url":"http://www.baidu.com"}
+	]
+   }
+]
