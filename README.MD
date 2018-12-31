@@ -1,4 +1,8 @@
-# SSM 整合
+# 员工管理小样
+
+> 在 IDEA 开发环境下 <br>
+使用 Maven 项目构建工具 <br>
+整合 Spring + Spring MVC + Mybatis
 
 ## 开发环境
 
